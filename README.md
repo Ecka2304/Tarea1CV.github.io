@@ -1,4 +1,3 @@
-# Curriculum Vitae
 <!DOCTYPE html>
 <html lang="es">
 <head>
