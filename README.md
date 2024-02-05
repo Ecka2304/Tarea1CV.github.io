@@ -12,7 +12,7 @@
         </header>
         <section class="section">
             <h2>Datos Personales</h2>
-			<img src="E:\Diseño Apps Web\Tarea 1\Foto de Perfil.png" alt="Tu Fotografía" height= "100px" width= "95px">
+			<img src="Foto de Perfil.png" alt="Tu Fotografía" height= "100px" width= "95px">
             <p><strong>Nombre:</strong> Ericka Fernanda Solis Porras </p>
             <p><strong>Dirección:</strong> Calle Nances, Grecia </p>
             <p><strong>Teléfono:</strong> 7160-4748</p>
